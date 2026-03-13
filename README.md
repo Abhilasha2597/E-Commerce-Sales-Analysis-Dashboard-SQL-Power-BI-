@@ -134,9 +134,13 @@ E-Commerce-Sales-Analysis-Dashboard-SQL-Power-BI-
 
 # Business Value
 The business value of this project is that it shows how businesses can utilize data analytics and dashboards for:
+
 Identifying high-value customers
+
 Tracking sales performance
+
 Optimizing product strategies
+
 Identifying seasonal sales patterns
 Making data-driven decisions
 
