@@ -21,19 +21,27 @@ Dataset used: E-commerce data link: https://www.kaggle.com/datasets/carrie1/ecom
 Columns include:
 InvoiceNo
 
+
 StockCode
+
 
 Description
 
+
 Quantity
+
 
 InvoiceDate
 
+
 UnitPrice
+
 
 CustomerID
 
+
 Country
+
 
 Revenue was calculated as:
 
