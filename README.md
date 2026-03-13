@@ -20,19 +20,30 @@ Dataset used: E-commerce data link: https://www.kaggle.com/datasets/carrie1/ecom
 
 Columns include:
 InvoiceNo
+
 StockCode
+
 Description
+
 Quantity
+
 InvoiceDate
+
 UnitPrice
+
 CustomerID
+
 Country
+
 Revenue was calculated as:
+
 Revenue = Quantity × UnitPrice
 
 # Tools Used
 PostgreSQL: Data storage and SQL analysis
+
 SQL: Data cleaning and transformation
+
 Power BI: Dashboard visualization
 
 
@@ -41,10 +52,15 @@ Power BI: Dashboard visualization
 Key SQL tasks included:
 
 Data cleaning
+
 Revenue calculation
+
 Customer purchase frequency analysis
+
 Product performance analysis
+
 Country-level sales aggregation
+
 RFM customer segmentation
 
 # Dashboard Features
@@ -54,19 +70,25 @@ The Power BI dashboard includes:
 # KPI Metrics
 
 Total Revenue
+
 Total Orders
+
 Total Customers
 
 # Sales Analysis
 
 Monthly sales trend
+
 Revenue by product
 
 # Customer Insights
+
 Top 10 customers
+
 Customer RFM segmentation
 
 # Geographic Analysis
+
 Revenue distribution by country
 
 # Key Insights
@@ -88,12 +110,16 @@ E-Commerce-Sales-Analysis-Dashboard-SQL-Power-BI-
 │
 │
 ├── Queries
+│
 │   ├── RFM analysis.sql
+│   │
 │   ├── SQL QUERIES.sql
 │   
 │
 ├── dashboard
+│
 │   └── ecommerce_data.pbix
+│
 │   └── dashboard image.jpg
 │
 └── README.md
