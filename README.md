@@ -31,10 +31,9 @@ Revenue was calculated as:
 Revenue = Quantity × UnitPrice
 
 # Tools Used
-Tool	            Purpose
-PostgreSQL	Data storage and SQL analysis
-SQL        	Data cleaning and transformation
-Power BI	  Dashboard visualization
+PostgreSQL: Data storage and SQL analysis
+SQL: Data cleaning and transformation
+Power BI: Dashboard visualization
 
 
 # SQL Analysis Performed
@@ -79,7 +78,8 @@ Revenue distribution by country
 • There are a small number of customers responsible for generating a large amount of revenue.
 
 # Project Structure
- E-Commerce-Sales-Analysis-Dashboard-SQL-Power-BI-
+
+E-Commerce-Sales-Analysis-Dashboard-SQL-Power-BI-
 │
 │
 ├── Queries
@@ -92,3 +92,12 @@ Revenue distribution by country
 │   └── dashboard image.jpg
 │
 └── README.md
+
+# Business Value
+The business value of this project is that it shows how businesses can utilize data analytics and dashboards for:
+Identifying high-value customers
+Tracking sales performance
+Optimizing product strategies
+Identifying seasonal sales patterns
+Making data-driven decisions
+
