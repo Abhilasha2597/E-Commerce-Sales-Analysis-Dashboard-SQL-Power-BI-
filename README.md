@@ -71,10 +71,15 @@ Revenue distribution by country
 
 # Key Insights
 • Total revenue generated is $8.3M
+
 • Over 22K orders have been processed
+
 • The data set comprises around 4K customers
+
 • The product "Regency Cake Stand 3 Tier" is the highest revenue-generating product
+
 • Sales are high during the period of October to November
+
 • There are a small number of customers responsible for generating a large amount of revenue.
 
 # Project Structure
